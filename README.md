@@ -2,7 +2,7 @@
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 <br>
-<sub>my koi grows with my GitHub activity · made with git-koi</sub>
+<sub>my koi grows with my GitHub activity
 
 <!--
 **kristellewidjaja/kristellewidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
